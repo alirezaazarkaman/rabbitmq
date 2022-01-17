@@ -1,0 +1,15 @@
+{
+  "name": "send-and-recived",
+  "version": "1.0.0",
+  "description": "",
+  "main": "recviver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC" ,
+  "dependencies": {
+    "aqmplib" :"1.0.0"
+  }
+}
